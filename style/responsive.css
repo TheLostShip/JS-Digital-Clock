@@ -1,0 +1,246 @@
+@media screen and (max-width: 760px) {
+    main .container {
+        height: 90vh;
+    }
+}
+
+@media screen and (max-width: 757px) {
+    main .container {
+        height: 100vh;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    main .container {
+        height: 105vh;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    main .container {
+        height: 105vh;
+    }
+    .para1 {
+        text-align: center;
+    }
+    .para2 {
+        text-align: center;
+    }
+    .text input {
+        width: 85vw;
+        text-align: center;
+    }
+    #button {
+        width: 91vw;
+    }
+    hr {
+        width: 90vw;
+    }
+}
+
+@media screen and (max-width: 582px) {
+    main .container {
+        height: 100vh;
+    }
+    #current {
+        font-size: 2.5rem;
+    }
+    #time {
+        font-size: 2.5rem;
+    }
+    hr {
+        width: 90.6vw;
+    }
+}
+
+@media screen and (max-width: 567px) {
+    #current {
+        font-size: 2.3rem;
+    }
+    #time {
+        font-size: 2.3rem;
+    }
+}
+
+@media screen and (max-width: 548px) {
+    #current {
+        font-size: 2.3rem;
+    }
+    #time {
+        font-size: 2.3rem;
+    }
+}
+
+@media screen and (max-width: 527px) {
+    main .container {
+        height: 105vh;
+    }
+    #current {
+        font-size: 2.3rem;
+    }
+    #time {
+        font-size: 2.3rem;
+    }
+}
+
+@media screen and (max-width: 525px) {
+    #button {
+        width: 91.3vw;
+    }
+}
+
+@media screen and (max-width: 521px) {
+    #current {
+        font-size: 2.2rem;
+    }
+    #time {
+        font-size: 2.2rem;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    #head {
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 499px) {
+    #current {
+        font-size: 2.1rem;
+    }
+    #time {
+        font-size: 2.1rem;
+    }
+}
+
+@media screen and (max-width: 487px) {
+    hr {
+        width: 91vw;
+    }
+}
+
+@media screen and (max-width: 485px) {
+    #button {
+        width: 91.5vw;
+    }
+}
+
+@media screen and (max-width: 475px) {
+    #current {
+        font-size: 2rem;
+    }
+    #time {
+        font-size: 2rem;
+    }
+    #button {
+        width: 91.9vw;
+    }
+}
+
+@media screen and (max-width: 449px) {
+    #current {
+        font-size: 1.9rem;
+    }
+    #time {
+        font-size: 1.9rem;
+    }
+    #button {
+        width: 92vw;
+    }
+}
+
+@media screen and (max-width: 433px) {
+    #button {
+        width: 92.5vw;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    #current {
+        font-size: 1.8rem;
+    }
+    #time {
+        font-size: 1.8rem;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    #button {
+        width: 92.7vw;
+    }
+}
+
+@media screen and (max-width: 403px) {
+    #current {
+        font-size: 1.7rem;
+    }
+    #time {
+        font-size: 1.7rem;
+    }
+}
+
+@media screen and (max-width: 395px) {
+    #button {
+        width: 93vw;
+    }
+}
+
+@media screen and (max-width: 381px) {
+    #current {
+        font-size: 1.6rem;
+    }
+    #time {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    #button {
+        width: 93.6vw;
+    }
+}
+
+@media screen and (max-width: 358px) {
+    #current {
+        font-size: 1.6rem;
+        font-family: cursive;
+    }
+    #time {
+        font-size: 1.6rem;
+    }
+    .para1 {
+        margin-top: 5vh;
+    }
+}
+
+@media screen and (max-width: 348px) {
+    #current {
+        font-size: 1.5rem;
+        font-family: cursive;
+    }
+    #time {
+        font-size: 1.5rem;
+    }
+    #button {
+        width: 94vw;
+    }
+}
+
+@media screen and (max-width: 327px) {
+    #current {
+        font-size: 1.4rem;
+        font-family: cursive;
+    }
+    #time {
+        font-size: 1.4rem;
+    }
+    #button {
+        width: 94.7vw;
+    }
+    main .container {
+        margin-bottom: 35px;
+    }
+}
